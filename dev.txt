@@ -1,8 +1,5 @@
 hello
 hi
 bye
-<<<<<<< HEAD
 nothing
-=======
 doing
->>>>>>> refs/remotes/origin/main
